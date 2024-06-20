@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Yo88 - Thiên đường game đánh bài đổi thưởng hấp dẫn nhất 2024. 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Yo88 <https://yo88g.top/>`_ - Trang web game đánh bài đổi thưởng uy tín, giúp bạn trải nghiệm thế giới giải trí tuyệt vời. Với nhiều loại hình cá cược đa dạng, bạn có thể tham gia đánh bài, đặt cược các trò chơi xổ số, và tận hưởng niềm vui không giới hạn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với khả năng cung cấp môi trường an toàn và công bằng, Yo88 là điểm đến lý tưởng cho những ai yêu thích sự hấp dẫn và đa dạng của các trò chơi đánh bài. Hãy tham gia ngay để trải nghiệm niềm vui và có cơ hội giành chiến thắng lớn!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 139 Đường Ngô Đức Tốn, Phong Nẫm, Thành phố Phan Thiết, Bình Thuận
 
-Contents
---------
+Phone: 0326166454. 
 
-.. toctree::
+Email: yo88gtop@gmail.com. 
 
-   usage
-   api
+Website: https://yo88g.top/
+
+#yo88 #yo88g #yo88gtop #nhacaiyo88
